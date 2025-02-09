@@ -60,5 +60,5 @@ export {
   klick,
   carrent,
   jobit,
-  tripguide
+  tripguide,
 };

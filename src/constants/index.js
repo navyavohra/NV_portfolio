@@ -23,7 +23,7 @@ import {
     klick,
     carrent,
     jobit,
-    tripguide
+    tripguide,
   } from "../assets";
   
   export const navLinks = [
@@ -86,8 +86,8 @@ import {
       icon: swift,
     },
     {
-        name: "Kotlin",
-        icon: kotlin,
+      name: "Kotlin",
+      icon: kotlin,
     },
     {
         name: "SQL",
@@ -117,10 +117,6 @@ import {
       name: "docker",
       icon: docker,
     },
-    {
-        name: "redux",
-        icon: redux,
-    }
   ];
   
   const experiences = [
