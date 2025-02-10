@@ -47,9 +47,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
+        
+        Welcome to my portfolio! I'm Navya Vohra, a driven Software Developer from 
+        Canada, with a robust background in mobile and web application development.
+        As an Honors Bachelor's graduate in Computer Science from Sheridan College and an app developer at Apple, 
+        I've developed a strong portfolio in designing, testing, and implementing 
+        software solutions that enhance user engagement and efficiency. 
+        Passionate about mentorship and innovation,
+        I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
