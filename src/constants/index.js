@@ -15,10 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  klick,
+  apple,
+  td,
+  bmo,
   carrent,
   jobit,
   tripguide,
@@ -117,8 +117,8 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "Apple",
+    icon: apple,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
@@ -130,8 +130,8 @@ const experiences = [
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    company_name: "TD Bank",
+    icon: td,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -143,8 +143,8 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "BMO: The Bank of Montreal",
+    icon: bmo,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -156,8 +156,8 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Klick Health",
+    icon: klick,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
