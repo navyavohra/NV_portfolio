@@ -16,16 +16,15 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import kotlin from "./tech/kotlin.png";
+import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import swift from "./tech/swift.png"
-import sql from "./tech/sql.png"
+import threejs from "./tech/threejs.svg";
 
-import apple from "./company/apple.png";
-import td from "./company/td.png";
-import bmo from "./company/bmo.png";
-import klick from "./company/klick.png";
+import meta from "./company/meta.png";
+import shopify from "./company/shopify.png";
+import starbucks from "./company/starbucks.png";
+import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -49,15 +48,14 @@ export {
   mongodb,
   nodejs,
   reactjs,
-  sql,
+  redux,
   tailwind,
   typescript,
-  swift,
-  kotlin,
-  apple,
-  td,
-  bmo,
-  klick,
+  threejs,
+  meta,
+  shopify,
+  starbucks,
+  tesla,
   carrent,
   jobit,
   tripguide,
