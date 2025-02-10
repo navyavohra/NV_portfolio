@@ -46,16 +46,24 @@ const services = [
     icon: web,
   },
   {
+    title: "iOS App Developer",
+    icon: mobile,
+  },
+  {
+    title: "Android App Developer",
+    icon: backend,
+  },
+  {
+    title: "Web Developer",
+    icon: creator,
+  },
+  {
     title: "Mobile Application Developer",
     icon: mobile,
   },
   {
-    title: "Software Engineer",
-    icon: backend,
-  },
-  {
     title: "Quality Assurance Analyst",
-    icon: creator,
+    icon: web,
   },
 ];
 
