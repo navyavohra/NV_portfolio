@@ -7,14 +7,17 @@ import {
   typescript,
   html,
   css,
+  swift,
+  kotlin,
   reactjs,
-  redux,
+  bootstrap,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
   docker,
+  aws,
   klick,
   apple,
   td,
@@ -22,7 +25,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  angular,
 } from "../assets";
 
 export const navLinks = [
@@ -66,8 +69,8 @@ const services = [
     icon: web,
   },
 ];
-
 const technologies = [
+  // Web technologies
   {
     name: "HTML 5",
     icon: html,
@@ -89,13 +92,29 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
+  {
+    name: "Angular",
+    icon: angular,
+  },
+  {
+    name: "Bootstrap",
+    icon: bootstrap, 
+  },
+
+  // Mobile technologies
+  {
+    name: "Swift",
+    icon: swift,
+  },
+  {
+    name: "Kotlin",
+    icon: kotlin,
+  },
+
+  // Backend & Database technologies
   {
     name: "Node JS",
     icon: nodejs,
@@ -104,62 +123,64 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
+
+  // Other important tools
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "Docker",
+    icon: docker,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Apple",
+    title: "App Developer Mentor",
+    company_name: "Apple & CEC",
     icon: apple,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Feb 2023 – Jan 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Managed and mentored high school students in designing, developing, testing, and deploying iOS apps using Swift.",
+      "Also responsible for developing web applications using HTML, CSS, and JavaScript, enhancing program tools and resources.",
+      "Provided comprehensive support through the app development lifecycle, ensuring high standards in both web and mobile projects.",
+      "Led initiatives that resulted in a 25% increase in program applications and a 90% success rate in project completions.",
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Software Developer - Mobile",
     company_name: "TD Bank",
     icon: td,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "May 2023 – Aug 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed, developed, tested, and deployed mobile applications within the financial sector, focusing on enhancing user engagement.",
+      "Worked extensively with Swift for iOS and Kotlin for Android platforms, implementing features tailored to banking needs.",
+      "Collaborated closely with cross-functional teams to ensure seamless integration and deployment of banking applications.",
+      "Applied best practices in software development to meet high standards for security and user data protection.",
     ],
   },
   {
-    title: "Web Developer",
+    title: "Quality Assurance Analyst",
     company_name: "BMO: The Bank of Montreal",
     icon: bmo,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2023 – May 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Conducted extensive testing across web and mobile platforms, including UI, unit, and performance tests in various environments.",
+      "Implemented both manual and automated testing strategies to enhance application quality and user experience.",
+      "Collaborated with development teams to identify and resolve defects, ensuring robust product releases.",
+      "Communicated effectively with technical and non-technical stakeholders to translate testing results into actionable insights.",
     ],
   },
   {
@@ -167,12 +188,12 @@ const experiences = [
     company_name: "Klick Health",
     icon: klick,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May 2022 – Aug 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Engaged in the full lifecycle of designing, developing, testing, and deploying web solutions in the healthcare marketing sector.",
+      "Utilized HTML, CSS, JavaScript, and Adobe Experience Manager (AEM) to deliver high-quality client-focused solutions.",
+      "Interfaced directly with clients to align development projects with their expectations and business goals.",
+      "Facilitated communications and project requirements with non-technical stakeholders to ensure clarity and project alignment.",
     ],
   },
 ];
