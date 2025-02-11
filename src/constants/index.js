@@ -70,17 +70,16 @@ const services = [
   },
 ];
 const technologies = [
-  // Web technologies
   {
-    name: "HTML 5",
+    name: "HTML",
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "CSS",
     icon: css,
   },
   {
-    name: "JavaScript",
+    name: "JS",
     icon: javascript,
   },
   {
@@ -100,11 +99,9 @@ const technologies = [
     icon: angular,
   },
   {
-    name: "Bootstrap",
+    name: "BootStrap",
     icon: bootstrap, 
   },
-
-  // Mobile technologies
   {
     name: "Swift",
     icon: swift,
@@ -113,8 +110,6 @@ const technologies = [
     name: "Kotlin",
     icon: kotlin,
   },
-
-  // Backend & Database technologies
   {
     name: "Node JS",
     icon: nodejs,
@@ -123,8 +118,6 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-
-  // Other important tools
   {
     name: "AWS",
     icon: aws,
