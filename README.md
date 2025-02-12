@@ -89,6 +89,15 @@ You can easily personalize the portfolio:
 ### 📸 Website Preview
 Here’s a preview of the website:
 
+---
+
+### 🤝 Contributing
+Contributions are always welcome! Here’s how you can help:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -m "Added a cool feature").
+4. Push the changes (git push origin feature-branch).
+5. Submit a Pull Request.
 
 
   
