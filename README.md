@@ -87,4 +87,9 @@ You can easily personalize the portfolio:
 - Add new projects: Update the project section in src/components/Projects.jsx.
 - Modify animations: Adjust animations using framer-motion or CSS.
 
+### 📸 Website Preview
+Here’s a preview of the website:
+
+
+
   
