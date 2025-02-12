@@ -79,4 +79,12 @@ Ensure you have the following installed:
    To start the development server: npm run dev
    For production build: npm run build
    To preview the build: npm run preview
-5. 
+   
+### 🔧 Customization
+You can easily personalize the portfolio:
+- Modify content: Update the src/pages/ folder with your details.
+- Change themes: Customize Tailwind CSS styles in src/styles/.
+- Add new projects: Update the project section in src/components/Projects.jsx.
+- Modify animations: Adjust animations using framer-motion or CSS.
+
+  
