@@ -73,3 +73,10 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/navyavohra/NV_portfolio.git
    cd NV_portfolio
+2. **Install dependencies**
+   npm install
+4. **Running the Project**
+   To start the development server: npm run dev
+   For production build: npm run build
+   To preview the build: npm run preview
+5. 
