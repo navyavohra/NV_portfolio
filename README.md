@@ -3,7 +3,6 @@
 Welcome to my **personal portfolio website**, a digital space where I showcase my work, skills, and achievements. This project is designed to be **modern, interactive, and fully responsive**, ensuring an excellent user experience across devices.
 
 ![Portfolio Screenshot](https://via.placeholder.com/1000x500?text=NV+Portfolio+Preview)  
-*(Replace with an actual screenshot of your portfolio)*
 
 ---
 
